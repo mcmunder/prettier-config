@@ -1,6 +1,6 @@
 # @mcmunder/prettier-config
 
-One prettier config to rule all them repos.
+One prettier config to rule them all.
 
 ## Usage
 

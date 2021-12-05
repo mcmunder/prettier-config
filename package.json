@@ -7,5 +7,6 @@
     "prettier-config"
   ],
   "author": "mcmunder <matthiasmunder@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git://github.com/mcmunder/prettier-config.git"
 }
