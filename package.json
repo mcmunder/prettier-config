@@ -1,0 +1,11 @@
+{
+  "name": "@mcmunder/prettier-config",
+  "version": "1.0.0",
+  "description": "One prettier config to rule them all",
+  "main": "index.json",
+  "keywords": [
+    "prettier-config"
+  ],
+  "author": "mcmunder <matthiasmunder@gmail.com>",
+  "license": "MIT"
+}
