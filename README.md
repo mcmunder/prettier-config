@@ -4,7 +4,13 @@ One prettier config to rule them all.
 
 ## Usage
 
-Simply point to this config in your `package.json`
+Simply
+
+```bash
+npm install @mcmunder/prettier-config --save-dev
+```
+
+and point to the config in your `package.json`
 
 ```json
 ...
